@@ -47,3 +47,9 @@ If you’ve worked with us for a longer time it’s also possible to get you to 
 Need a development license for apple or anything? It depends on the project you’re working on if it pays off for Viper Development to fund that for you but generally things up to 100eur or so are not a problem at all. Just talk to Lasse :)
 
 Once approved you can just buy it in the name of your business, upload the expense to freshbooks and freshbooks will allow you to rebill it to me directly.
+
+## Freshbooks - mark an invoice as paid
+
+After you receive the money from Viper Development, please mark the invoice as paid.
+
+To do that go to Invoices > Payments > Add new payment for the bill.
